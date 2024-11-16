@@ -12,3 +12,4 @@ C:\Estudo\Alura\C#\PrimeiroProjeto\obj\Debug\net8.0\refint\PrimeiroProjeto.dll
 C:\Estudo\Alura\C#\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.pdb
 C:\Estudo\Alura\C#\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.genruntimeconfig.cache
 C:\Estudo\Alura\C#\PrimeiroProjeto\obj\Debug\net8.0\ref\PrimeiroProjeto.dll
+C:\Estudo\Alura\C#\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.sourcelink.json
